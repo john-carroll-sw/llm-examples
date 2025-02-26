@@ -7,3 +7,4 @@ trubrics>=1.4.3
 streamlit-feedback
 langchain-community
 python-dotenv==1.0.0
+requests>=2.28.0
